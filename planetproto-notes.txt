@@ -1,0 +1,29 @@
+# planetproto
+
+
+Understanding JavaScript Prototypes - Workshop
+screenshot
+Mission
+
+The goal of this workshop is to help you understand the object model in Javascript by learning how prototypes work.
+
+Most guides / tutorials start explaining JavaScript objects by going directly to ‘constructor functions’, this workshop is different, it starts simple by explaining prototype chains and building from there.
+
+Please read the exercises thoroughly and follow all conditions, they are there to help you learn!
+What you will learn
+
+    What are prototypes chains
+    Message delegation in a prototype chain
+    What are function constructors
+    What are function prototypes and how to work with them
+
+Installation & Update
+
+
+
+
+$ npm install -g planetproto@latest
+
+run planetproto to print a menu where you can select a problem to work on.
+
+$ planetproto
